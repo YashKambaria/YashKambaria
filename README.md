@@ -57,9 +57,11 @@
 
 ## 🎯 Current Focus
 
-- 🚨 Finalizing **Parking Guardian** Flutter frontend with complaint history & map integration  
-- 🧠 Studying **Spring Microservices** to build scalable, modular backend architectures  
-- ⚡ Optimizing backend performance using **Redis caching** and **Kafka-based messaging**
+- 🍽️ Building a **Zomato Clone** with:  
+  - Modular, reusable Flutter widgets for better scalability  
+  - Custom UI components for a polished, app-like experience  
+  - Backend integration for dynamic data and real-time updates  
+  - Smooth navigation & responsive layouts for multiple screen sizes
 
 ---
 
