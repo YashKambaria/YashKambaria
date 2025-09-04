@@ -1,7 +1,8 @@
 <h1 align="center">Hi there! 👋 I'm Yash Kambaria</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C9A7&center=true&vCenter=true&width=500&lines=Backend+Engineer+%7C+Spring+Boot+Developer;Building+Scalable+Real-World+Apps" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C9A7&center=true&vCenter=true&width=500&lines=Backend+Engineer+%7C+Spring+Boot+Developer;Flutter+Developer;Building+Scalable+Real-World+Apps" alt="Typing SVG" />
+
 </div>
 
 ---
@@ -11,7 +12,7 @@
 - 🔧 Backend Developer with a solid foundation in **Java**, **Spring Boot**, and **System Design**
 - 🚀 Built production-grade apps like **Parking Guardian**, integrating **Twilio**, **Google Maps**, and **JWT Auth**
 - ⚙️ Working with **Redis**, **Kafka**, **MongoDB**, and exploring **Spring Boot Microservices**
-- 📱 Gaining practical experience in Flutter by building beginner-level mobile apps
+- 📱 Expanding expertise in **Flutter** through hands-on projects, including beginner-friendly apps and a polished **Zomato UI Clone**
 - 🎯 Passionate about performance optimization, clean architecture, and solving real-world problems
 
 ---
@@ -49,6 +50,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=YashKambaria&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
   <img src="https://streak-stats.demolab.com?user=YashKambaria&theme=tokyonight&hide_border=true" height="180" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YashKambaria&theme=tokyo-night&hide_border=true" height="280" />
+<img src="https://github-profile-trophy.vercel.app/?username=YashKambaria&theme=algolia" />
+
 </div>
 
 ---
@@ -57,11 +60,12 @@
 
 ## 🎯 Current Focus
 
-- 🍽️ Building a **Zomato Clone** with:  
-  - Modular, reusable Flutter widgets for better scalability  
-  - Custom UI components for a polished, app-like experience  
-  - Backend integration for dynamic data and real-time updates  
-  - Smooth navigation & responsive layouts for multiple screen sizes
+
+- 🚴 Developing **RideFree**, a community-driven ride-sharing app:  
+  - Credit-based system to encourage fair usage and rewards  
+  - Real-time ride updates and seamless communication between users  
+  - Firebase backend for authentication, storage, and live data sync  
+  - Focused on simplicity, accessibility, and practical usability  
 
 ---
 
