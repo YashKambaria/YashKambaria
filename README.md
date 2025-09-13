@@ -57,17 +57,17 @@
 ---
 
 
+## Current Focus
 
-## 🎯 Current Focus
+- Learning Spring Boot Microservices:
+  - Building RESTful microservices with Spring Boot
+  - Exploring inter-service communication (Feign, RestTemplate, WebClient)
+  - Service discovery and registration with Eureka
+  - API Gateway for routing and load balancing
+  - Centralized configuration management with Spring Cloud Config
+  - Circuit breakers and resilience with Resilience4j
+  - Containerization with Docker and orchestration with Kubernetes
 
-
-- 🚴 Developing **RideFree**, a community-driven ride-sharing app:  
-  - Credit-based system to encourage fair usage and rewards  
-  - Real-time ride updates and seamless communication between users  
-  - Firebase backend for authentication, storage, and live data sync  
-  - Focused on simplicity, accessibility, and practical usability  
-
----
 
 ## 🧠 LeetCode & DSA
 
