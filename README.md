@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-- 🔧 Backend Developer with a solid foundation in **Java**, **Spring Boot**, and **System Design**
+- 🔧 Backend Developer with a solid foundation in **Java**, **Spring Boot**.
 - 🚀 Built production-grade apps like **Parking Guardian**, integrating **Twilio**, **Google Maps**, and **JWT Auth**
 - ⚙️ Working with **Redis**, **Kafka**, **MongoDB**, and exploring **Spring Boot Microservices**
 - 📱 Expanding expertise in **Flutter** through hands-on projects, including beginner-friendly apps and a polished **Zomato UI Clone**
